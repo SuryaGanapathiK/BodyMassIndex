@@ -11,21 +11,23 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
+## Description
+
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
 
 ## Features
 
-TODO: Calculate BMI based on the height and weight that you provided.
+Calculate BMI based on the height and weight that you provided.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
+List prerequisites and provide or point to information on how to
 start using the package.
 
 ## Usage
 
-TODO: To use this plugin, add body_mass_index as a dependency in your pubspec.yaml file.
+To use this plugin, add body_mass_index as a dependency in your pubspec.yaml file.
 
 <!-- examples
 to `/example` folder. 
